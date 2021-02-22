@@ -1,0 +1,4 @@
+TODO:
+    [ ] add method for split data for train and test
+    [ ] add method for find and replace the same vocab
+    [ ] add method for get story and qustion return answer
